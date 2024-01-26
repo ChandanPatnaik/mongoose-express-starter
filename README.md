@@ -46,12 +46,10 @@ Ensure that you have the following software installed on your machine:
 
 Create a .env file in the root directory with the following configuration:
 
-    ```bash
     PORT=3000
     DATABASE_URL=mongodb://localhost:27017/your-database-name
     JWT_SECRET=your-secret-key
     API_VERSION=v1
-    ```
 
 Replace your-database-name and your-secret-key with your desired values.
 
