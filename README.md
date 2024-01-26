@@ -68,7 +68,7 @@ The project follows a class-based approach to maintain a clean and modular struc
   - app.plugin.ts: Main application class where Express app is configured.
   - server.ts: Entry point for starting the server.
 
-## Structure Details
+### Structure Details
 
 - /controllers: Contains controller classes responsible for handling business logic.
 - /helpers: Directory for utility classes or helper functions.
